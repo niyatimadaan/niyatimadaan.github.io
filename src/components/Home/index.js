@@ -8,7 +8,7 @@ import Loader from 'react-loaders'
 
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const nameArray = [ 'i', 'y', 'a', 't', 'i']
+  const nameArray = ['i', 'y', 'a', 't', 'i']
   const jobArray = [
     'w',
     'e',
@@ -56,9 +56,12 @@ const Home = () => {
             />
           </h1>
           <h2>Student, Developer, Reader</h2>
-          <Link to="/contact" className="flat-button">
-            CONTACT ME
-          </Link>
+          <a
+            href="https://docs.google.com/document/d/1PF54QOW3fk8iLVMo9wF6lI10N7450p7DuMut2WZC_A8/edit?usp=sharing"
+            className="flat-button"
+          >
+            RESUME
+          </a>
         </div>
         <Logo />
       </div>
