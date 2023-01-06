@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.57875c1c.css",
-    "main.js": "/static/js/main.fc153b44.js",
+    "main.css": "/static/css/main.ef5efe00.css",
+    "main.js": "/static/js/main.ec55b35e.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/connecting-image.avif": "/static/media/connecting-image.8fd844ec61d09261cfed.avif",
+    "static/media/Niyati Madaan resume.pdf": "/static/media/Niyati Madaan resume.055f87d5a6e5fe567507.pdf",
+    "static/media/web-crawler-image.avif": "/static/media/web-crawler-image.235eb94ce46cc650cd1d.avif",
+    "static/media/parkx-image.avif": "/static/media/parkx-image.9d9a0b0f12d384527642.avif",
+    "static/media/sppm-image.jpeg": "/static/media/sppm-image.5a7e14a95072b24be0fd.jpeg",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -10,12 +15,12 @@
     "static/media/logo-n.png": "/static/media/logo-n.7f7817cd9e6810e0e4f3.png",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.57875c1c.css.map": "/static/css/main.57875c1c.css.map",
-    "main.fc153b44.js.map": "/static/js/main.fc153b44.js.map",
+    "main.ef5efe00.css.map": "/static/css/main.ef5efe00.css.map",
+    "main.ec55b35e.js.map": "/static/js/main.ec55b35e.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57875c1c.css",
-    "static/js/main.fc153b44.js"
+    "static/css/main.ef5efe00.css",
+    "static/js/main.ec55b35e.js"
   ]
 }
