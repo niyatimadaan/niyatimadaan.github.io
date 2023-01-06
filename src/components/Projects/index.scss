@@ -94,20 +94,20 @@
   }
 
   .parkx {
-    background-image: url("https://images.unsplash.com/photo-1543465077-db45d34b88a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../assets/images/parkx-image.avif");
   }
   .connecting {
-    background-image: url("https://images.unsplash.com/photo-1585974738771-84483dd9f89f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1072&q=80");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../assets/images/connecting-image.avif");
     background-size: cover;
     background-position: -20px;
   }
   .webc {
-    background-image: url("https://images.unsplash.com/photo-1567210590635-06998f86961e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../assets/images/web-crawler-image.avif");
     background-size: cover;
     background-position: -20px;
   }
   .sppm{
-    background-image: url("https://images.pexels.com/photos/5967048/pexels-photo-5967048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../assets/images/sppm-image.jpeg");
     background-size: cover;
     background-size: cover;
     background-position: -20px;

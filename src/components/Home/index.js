@@ -1,5 +1,5 @@
 import LogoTitle from '../../assets/images/logo-n.png'
-import { Link } from 'react-router-dom'
+import Resume from '../../assets/pdf/Niyati Madaan resume.pdf'
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
@@ -57,7 +57,7 @@ const Home = () => {
           </h1>
           <h2>Student, Developer, Reader</h2>
           <a
-            href="https://docs.google.com/document/d/1PF54QOW3fk8iLVMo9wF6lI10N7450p7DuMut2WZC_A8/edit?usp=sharing"
+            href= {Resume}
             className="flat-button"
           >
             RESUME

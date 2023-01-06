@@ -25,7 +25,7 @@ const Contact = () => {
             />
           </h1>
           <form action="" className="tm-contact-form" method="post">
-            <div class="form-group mb-4">
+            <div className="form-group mb-4">
               <p></p>
               <h2>Let me hear from you!</h2>
               <p></p>
