@@ -1,5 +1,5 @@
 import LogoTitle from '../../assets/images/logo-n.png'
-import Resume from '../../assets/pdf/Niyati Madaan resume.pdf'
+import Resume from '../../assets/pdf/Niyati Madaan Resume III (5).pdf'
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
